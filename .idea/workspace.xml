@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a41ecd33-0529-4ccc-adba-f5ad3586e757" name="Changes" comment="demo.java is modified in local machine in main" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="branch1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "assignee": "Kavin0327",
+      "label": "enhancement"
+    },
+    {
+      "searchQuery": "demo.java",
+      "state": "OPEN",
+      "assignee": "Kavin0327"
+    }
+  ],
+  "lastFilter": {
+    "searchQuery": "demo.java",
+    "state": "OPEN",
+    "assignee": "Kavin0327"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kavin0327/Learning.git&quot;,
+    &quot;accountId&quot;: &quot;ed578ab1-8967-44bd-8614-43224e7ac866&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2xOdUNAALz1upOQBRldFdRzxlzL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kavin-tt0868/Home/GitLearning/Learning",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a41ecd33-0529-4ccc-adba-f5ad3586e757" name="Changes" comment="" />
+      <created>1747813068862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747813068862</updated>
+    </task>
+    <task id="LOCAL-00001" summary="demo.java is created in local machine">
+      <option name="closed" value="true" />
+      <created>1747813257782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747813257782</updated>
+    </task>
+    <task id="LOCAL-00002" summary="demo.java is modified in local machine">
+      <option name="closed" value="true" />
+      <created>1747813383012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747813383012</updated>
+    </task>
+    <task id="LOCAL-00003" summary="demo.java is modified in local machine branch1">
+      <option name="closed" value="true" />
+      <created>1747813632209</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747813632209</updated>
+    </task>
+    <task id="LOCAL-00004" summary="demo.java is modified in local machine">
+      <option name="closed" value="true" />
+      <created>1747813911825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747813911825</updated>
+    </task>
+    <task id="LOCAL-00005" summary="demo.java is modified in local machine">
+      <option name="closed" value="true" />
+      <created>1747814224848</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747814224848</updated>
+    </task>
+    <task id="LOCAL-00006" summary="demo.java is modified in local machine in main">
+      <option name="closed" value="true" />
+      <created>1747814425276</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747814425276</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="demo.java is created in local machine" />
+    <MESSAGE value="demo.java is modified in local machine branch1" />
+    <MESSAGE value="demo.java is modified in local machine" />
+    <MESSAGE value="demo.java is modified in local machine in main" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo.java is modified in local machine in main" />
+  </component>
+</project>
